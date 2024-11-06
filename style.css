@@ -1,4 +1,11 @@
-body{
+
+body{ 
     color:white;
-    background: black;
+    background: hwb(0 0% 100%);
+}
+
+
+body{
+    display: block;
+    margin: 8px
 }
